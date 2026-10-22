@@ -1,0 +1,15 @@
+E-3901 Fundo Concept V2 — complemento de publicacao PWA
+
+O GitHub atualmente possui apenas index.html. Adicione estes cinco arquivos NA RAIZ DO REPOSITORIO, no mesmo nivel de index.html, sem criar subpasta:
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
+- diagrama-original.png
+
+No GitHub: Add file > Upload files > arraste os 5 arquivos > Commit changes.
+Nao precisa substituir o index.html; seu conteudo corresponde exatamente ao V2.0 existente.
+
+Depois da publicacao, verifique que a imagem original abre, os icones carregam, e que o navegador permite a instalacao PWA. Teste online e offline no telefone apos nova instalacao. A eventual existencia de cache anterior pode exigir reabrir o site, atualizar e reinstalar.
+
+Versao da Concept permanece V2.0. Nenhum codigo alterado.
